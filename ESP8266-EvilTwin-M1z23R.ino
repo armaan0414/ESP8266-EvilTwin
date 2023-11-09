@@ -32,8 +32,8 @@ void clearArray() {
 
 }
 
-String _correct = "";
-String _tryPassword = "";
+String _correct = "iPhone 15";
+String _tryPassword = "Armaan0414";
 
 void setup() {
 
